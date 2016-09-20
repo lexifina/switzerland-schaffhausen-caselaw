@@ -1,0 +1,19 @@
+---
+decision_id: "sh_gerichte_Nr. 60_2016_10 und 60_2016_12"
+court: "SH Gerichte"
+court_id: "sh_gerichte"
+chamber: "Obergericht"
+docket: "Nr. 60/2016/10 und 60/2016/12"
+decided: "2016-09-20"
+published: "2021-02-10"
+language: "de"
+source_url: "https://obergerichtsentscheide.sh.ch/Webseite/Obergerichtsentscheide/2016-7544874-DE.html"
+pdf_url: "https://obergerichtsentscheide.sh.ch/CMS/get/file/67fa19bd-6a05-8b41-6cdc-3e3bc0f35e6d"
+cites_law: ["switzerland/bund/acts/818.33/art-014.md"]
+---
+
+# Einsicht in Sitzungsprotokolle der Kantonsratskommissionen; Rechtsschutz; Auslegung der massgebenden Vorschriften – Art. 47 Abs. 3 KV; Art. 14 Abs. 1bis KRG; Art. 8a und Art. 8b OrgG; Art. 44 Abs. 1 ilt. d JG; Art. 36 Abs. 1 VRG.
+
+## Text
+
+Verfügungen des Kantonsratsbüros über die Gewährung des Rechts zur Einsicht in die Protokolle von Kantonsratskommissionen sind mit Verwaltungsgerichtsbeschwerde beim Obergericht anfechtbar (E. 1.2). Die angefochtenen Verfügungen sind aufgrund des Zeitablaufs weitgehend gegenstandslos geworden. Da es sich aber um eine grundsätzliche Frage handelt, welche andernfalls kaum rechtzeitig geklärt werden könnte, besteht ein schutzwürdiges Interesse an der Behandlung der gestellten Feststellungsanträge (E. 1.3). Die Sitzungen der Kantonsratskommissionen sind im Kanton Schaffhausen nicht öffentlich; in die Protokolle kann jedoch aufgrund der im Rahmen der Umsetzung der neuen Kantonsverfassung getroffenen Regelung von Art. 14 Abs. 1bis KRG nach Erledigung des betreffenden Geschäfts Einsicht genommen werden. Dies dient im Sinne einer Mittellösung der Durchsetzung des Öffentlichkeitsprinzips bezüglich der Arbeit der Kantonsratskommissionen (E. 2). Absicht der vom Gesetzgeber getroffenen Mittellösung war es, die laufende Kommissionsarbeit vor öffentlicher Einflussnahme freizuhalten, aber die Einsicht in die Kommissionsprotokolle im Sinne des Öffentlichkeitsprinzips zu ermöglichen. Die Einsicht in die Kommissionsprotokolle ist entsprechend dem vom Gesetzgeber zum Ausdruck gebrachten Willen ab Abschluss der Beratungen im Kantonsrat und damit vor Ablauf der Referendumsfrist bzw. vor der allfälligen Durchführung einer Volksabstimmung zu gewähren. Der Schutz der demokratischen Willensbildung vor einer Irreführung der Stimmberechtigten durch aus dem Zusammenhang gerissene Äusserungen von Kommissionsmitgliedern kann kein Grund für die Verweigerung der Einsicht bzw. eine Ausdehnung der vom Gesetzgeber vorgesehenen Schutzfrist sein. Vorbehalten bleiben überwiegende öffentliche oder private Interessen, die gegen eine Einsicht sprechen, was vor allem im Bereich der parlamentarischen Oberaufsicht denkbar ist (E. 3). Aus Verfassung und Gesetz kann nur ein Anspruch auf Einsicht in die Protokolle an Ort und Stelle und auf Anfertigung oder Aushändigung von schriftlichen Kopien, nicht aber auf Zustellung von Protokollen in elektronischer Form abgeleitet werden (E. 4).
